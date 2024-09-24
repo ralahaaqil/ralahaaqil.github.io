@@ -1,6 +1,6 @@
 ---
 title: "Course Recommender Model for People with Disabilities"
-excerpt: "This project deals with a course recommendation model developed using reinforcement learning to improve the employability of people with disabilities.<br/><img src='/images/project1.jpg' width = 30em>"
+excerpt: "This project deals with a course recommendation model developed using reinforcement learning to improve the employability of people with disabilities.<br/><img src='/images/project1.jpg' width = 50%>"
 collection: portfolio
 ---
 
