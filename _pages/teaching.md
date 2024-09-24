@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Hey! Welcome to the Black Pools page. We're an acoustic duo who teach vocals, guitar and the ukulele. We also perform occasionally across places in Bangalore, India.<br/><br/>
 
 Here's a bit about us with the classes that we offer.<br/><br/>
