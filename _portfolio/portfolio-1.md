@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Course Recommender Model for People with Disabilities"
+excerpt: "This project deals with a course recommendation model developed using reinforcement learning to improve the employability of people with disabilities.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
