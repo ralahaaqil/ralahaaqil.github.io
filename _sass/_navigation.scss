@@ -32,7 +32,7 @@
     padding: 0;
     list-style: none;
     font-size: $type-size-6;
-    color: purple;
+    
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -45,6 +45,7 @@
 
   li {
     display: inline;
+    color: purple;
   }
 
   .current {
