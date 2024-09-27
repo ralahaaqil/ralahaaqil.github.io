@@ -12,7 +12,7 @@ Hey! Welcome to the Black Pools page. We're an acoustic duo who teach vocals, gu
 Feel free to contact us if you're interested in taking up vocal, guitar or ukulele sessions!
 
 Here's a bit about us with the classes that we offer.
-<img src="/images/blackpools1.jpg"><br/><br/>
+<img src="/images/blackpools1.jpg">
 <img src="/images/blackpools2.jpg">
 
 
