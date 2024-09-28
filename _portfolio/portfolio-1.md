@@ -10,4 +10,4 @@ The agent receives a positive reward when it chooses a course (action) for an in
 
 The model provides efficient results showing good trends with the episode reward mean, entropy coefficient and the explored variance with a stabilization in the clip fraction and approximated KL divergence.
 
-You can find the GitHub repository to the environment and reward function here: 
+You can find the GitHub repository to the environment and reward function <a href='https://github.com/ralahaaqil/RL-Recommendation-System'>here</a>. 
