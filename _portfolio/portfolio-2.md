@@ -10,4 +10,4 @@ The neural network consists of three convolutional layers, each having a 2D conv
 
 Early stopping and reduction of learning rate is applied during the training process. The model performs well with over 90% accuracy, and good precision, recall and f1 scores.
 
-The GitHub repository for the notebook can be found here: 
+The GitHub repository for the notebook can be found <a href='https://github.com/ralahaaqil/CNN-Image-Classifier/tree/main'>here</a>. 
